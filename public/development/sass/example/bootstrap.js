@@ -2444,13 +2444,17 @@ Ext.ClassManager.addNameAlternateMappings({
   "ExtThemeNeptune.toolbar.Toolbar": [],
   "iSchool.Application": [],
   "iSchool.controller.Classes": [],
+  "iSchool.controller.Devoirs": [],
   "iSchool.controller.Eleves": [],
   "iSchool.controller.Main": [],
   "iSchool.model.Classe": [],
+  "iSchool.model.Devoir": [],
   "iSchool.model.Eleve": [],
   "iSchool.store.Classes": [],
+  "iSchool.store.Devoirs": [],
   "iSchool.store.Eleves": [],
   "iSchool.view.Classes": [],
+  "iSchool.view.Devoirs": [],
   "iSchool.view.Eleves": [],
   "iSchool.view.Main": [],
   "iSchool.view.Viewport": []
@@ -3506,14 +3510,20 @@ Ext.ClassManager.addNameAliasMappings({
   "ExtThemeNeptune.toolbar.Toolbar": [],
   "iSchool.Application": [],
   "iSchool.controller.Classes": [],
+  "iSchool.controller.Devoirs": [],
   "iSchool.controller.Eleves": [],
   "iSchool.controller.Main": [],
   "iSchool.model.Classe": [],
+  "iSchool.model.Devoir": [],
   "iSchool.model.Eleve": [],
   "iSchool.store.Classes": [],
+  "iSchool.store.Devoirs": [],
   "iSchool.store.Eleves": [],
   "iSchool.view.Classes": [
     "widget.Classes"
+  ],
+  "iSchool.view.Devoirs": [
+    "widget.Devoirs"
   ],
   "iSchool.view.Eleves": [
     "widget.Eleves"
