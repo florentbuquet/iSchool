@@ -7,7 +7,8 @@ Ext.define('iSchool.Application', {
         // TODO: add views here
         'Classes',
         'Eleves',
-        'Devoirs'
+        'Devoirs',
+        'Documents'
     ],
 
     controllers: [
@@ -15,19 +16,22 @@ Ext.define('iSchool.Application', {
         'Main',
         'Classes',
         'Eleves',
-        'Devoirs'
+        'Devoirs',
+        'Documents'
     ],
 
     stores: [
         // TODO: add stores here
         'Classes',
         'Eleves',
-        'Devoirs'
+        'Devoirs',
+        'Documents'
     ],
 
     models: [
         'Classe',
         'Eleve',
-        'Devoir'
+        'Devoir',
+        'Document'
     ]
 });

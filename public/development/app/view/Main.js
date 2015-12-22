@@ -40,6 +40,9 @@ Ext.define('iSchool.view.Main', {
             text: '<i class="fa fa-tasks"></i> Mes devoirs',
             itemId: 'Devoirs'
         },{
+            text: '<i class="fa fa-folder"></i> Mes documents',
+            itemId: 'Documents'
+        },{
             text: '<i class="fa fa-cog fa-spin"></i> Paramètres',
             itemId: 'Parametres'
         },{

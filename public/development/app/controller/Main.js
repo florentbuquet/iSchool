@@ -100,6 +100,7 @@ Ext.define('iSchool.controller.Main', {
             case 'Classes' : me.getController('Classes').loadClasses();break ;
             case 'Eleves' : me.getController('Eleves').loadEleves();break;
             case 'Devoirs' : me.getController('Devoirs').loadDevoirs();break;
+            case 'Documents' : me.getController('Documents').loadDocuments();break;
             //case 'Parametres' : me.getController('Parametres').loadParametres();break ;
             case 'Deconnexion' : window.location = 'logout';break ;
 
